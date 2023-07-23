@@ -1,0 +1,61 @@
+﻿@model EmployeeViewModel
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Employee Details</h1>
+<br />
+<br />
+
+<div class="row">.
+    <div class="col-12">
+        <div class="form-group">
+            <label class="col-form-label" asp-for="Name"></label>
+            <input asp-for="Name" class="form-control" readonly />
+        </div>
+
+        <div class="form-group">
+            <label class="col-form-label" asp-for="Age"></label>
+            <input asp-for="Age" class="form-control" readonly />
+        </div>
+
+        <div class="form-group">
+            <label class="col-form-label" asp-for="Address"></label>
+            <input asp-for="Address" class="form-control" readonly />
+        </div>
+
+        <div class="form-group">
+            <label class="col-form-label" asp-for="Salary"></label>
+            <input asp-for="Salary" class="form-control" readonly />
+        </div>
+
+        <div class="form-group">
+            <label class="col-form-label" asp-for="Email"></label>
+            <input asp-for="Email" class="form-control" readonly />
+        </div>
+        <div class="form-group">
+            <label class="col-form-label" asp-for="PhoneNumber"></label>
+            <input asp-for="PhoneNumber" class="form-control" readonly />
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Department" class="col-form-label"></label>
+            <input asp-for="Department.Name" class="form-control" readonly/>
+        </div>
+
+        <div class="form-group">
+            <label class="col-form-label" asp-for="HireDate"></label>
+            <input asp-for="HireDate" class="form-control" readonly />
+        </div>
+        <div class="form-group">
+            <label class="col-form-label" asp-for="IsActive"></label>
+            <input asp-for="IsActive" class="form-control" readonly />
+        </div>
+
+        <br />
+        <a class="btn btn-success" asp-action="Update" asp-route-id="@Model.Id">Edit</a> |
+        <a class="btn btn-light" asp-action="Index">Back To List</a>
+    </div>
+</div>
+

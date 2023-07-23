@@ -1,0 +1,30 @@
+D:\ROUTE\07 ASP.NET Core MVC\Session 02\Assignment\Assign.BLL\bin\Debug\net5.0\Assign.BLL.deps.json
+D:\ROUTE\07 ASP.NET Core MVC\Session 02\Assignment\Assign.BLL\bin\Debug\net5.0\Assign.BLL.dll
+D:\ROUTE\07 ASP.NET Core MVC\Session 02\Assignment\Assign.BLL\bin\Debug\net5.0\Assign.BLL.pdb
+D:\ROUTE\07 ASP.NET Core MVC\Session 02\Assignment\Assign.BLL\bin\Debug\net5.0\Assign.DAL.dll
+D:\ROUTE\07 ASP.NET Core MVC\Session 02\Assignment\Assign.BLL\bin\Debug\net5.0\Assign.DAL.pdb
+D:\ROUTE\07 ASP.NET Core MVC\Session 02\Assignment\Assign.BLL\obj\Debug\net5.0\Assign.BLL.csproj.AssemblyReference.cache
+D:\ROUTE\07 ASP.NET Core MVC\Session 02\Assignment\Assign.BLL\obj\Debug\net5.0\Assign.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ROUTE\07 ASP.NET Core MVC\Session 02\Assignment\Assign.BLL\obj\Debug\net5.0\Assign.BLL.AssemblyInfoInputs.cache
+D:\ROUTE\07 ASP.NET Core MVC\Session 02\Assignment\Assign.BLL\obj\Debug\net5.0\Assign.BLL.AssemblyInfo.cs
+D:\ROUTE\07 ASP.NET Core MVC\Session 02\Assignment\Assign.BLL\obj\Debug\net5.0\Assign.BLL.csproj.CoreCompileInputs.cache
+D:\ROUTE\07 ASP.NET Core MVC\Session 02\Assignment\Assign.BLL\obj\Debug\net5.0\Assign.BLL.csproj.CopyComplete
+D:\ROUTE\07 ASP.NET Core MVC\Session 02\Assignment\Assign.BLL\obj\Debug\net5.0\Assign.BLL.dll
+D:\ROUTE\07 ASP.NET Core MVC\Session 02\Assignment\Assign.BLL\obj\Debug\net5.0\refint\Assign.BLL.dll
+D:\ROUTE\07 ASP.NET Core MVC\Session 02\Assignment\Assign.BLL\obj\Debug\net5.0\Assign.BLL.pdb
+D:\ROUTE\07 ASP.NET Core MVC\Session 02\Assignment\Assign.BLL\obj\Debug\net5.0\ref\Assign.BLL.dll
+D:\ROUTE\LastMVC AhmedKhaled\MVC 02\Assign.BLL\bin\Debug\net5.0\Assign.BLL.deps.json
+D:\ROUTE\LastMVC AhmedKhaled\MVC 02\Assign.BLL\bin\Debug\net5.0\Assign.BLL.dll
+D:\ROUTE\LastMVC AhmedKhaled\MVC 02\Assign.BLL\bin\Debug\net5.0\Assign.BLL.pdb
+D:\ROUTE\LastMVC AhmedKhaled\MVC 02\Assign.BLL\bin\Debug\net5.0\Assign.DAL.dll
+D:\ROUTE\LastMVC AhmedKhaled\MVC 02\Assign.BLL\bin\Debug\net5.0\Assign.DAL.pdb
+D:\ROUTE\LastMVC AhmedKhaled\MVC 02\Assign.BLL\obj\Debug\net5.0\Assign.BLL.csproj.AssemblyReference.cache
+D:\ROUTE\LastMVC AhmedKhaled\MVC 02\Assign.BLL\obj\Debug\net5.0\Assign.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ROUTE\LastMVC AhmedKhaled\MVC 02\Assign.BLL\obj\Debug\net5.0\Assign.BLL.AssemblyInfoInputs.cache
+D:\ROUTE\LastMVC AhmedKhaled\MVC 02\Assign.BLL\obj\Debug\net5.0\Assign.BLL.AssemblyInfo.cs
+D:\ROUTE\LastMVC AhmedKhaled\MVC 02\Assign.BLL\obj\Debug\net5.0\Assign.BLL.csproj.CoreCompileInputs.cache
+D:\ROUTE\LastMVC AhmedKhaled\MVC 02\Assign.BLL\obj\Debug\net5.0\Assign.BLL.csproj.CopyComplete
+D:\ROUTE\LastMVC AhmedKhaled\MVC 02\Assign.BLL\obj\Debug\net5.0\Assign.BLL.dll
+D:\ROUTE\LastMVC AhmedKhaled\MVC 02\Assign.BLL\obj\Debug\net5.0\refint\Assign.BLL.dll
+D:\ROUTE\LastMVC AhmedKhaled\MVC 02\Assign.BLL\obj\Debug\net5.0\Assign.BLL.pdb
+D:\ROUTE\LastMVC AhmedKhaled\MVC 02\Assign.BLL\obj\Debug\net5.0\ref\Assign.BLL.dll

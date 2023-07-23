@@ -1,0 +1,24 @@
+D:\ROUTE\07 ASP.NET Core MVC\Session 02\Assignment\Assign.DAL\bin\Debug\net5.0\Assign.DAL.deps.json
+D:\ROUTE\07 ASP.NET Core MVC\Session 02\Assignment\Assign.DAL\bin\Debug\net5.0\Assign.DAL.dll
+D:\ROUTE\07 ASP.NET Core MVC\Session 02\Assignment\Assign.DAL\bin\Debug\net5.0\Assign.DAL.pdb
+D:\ROUTE\07 ASP.NET Core MVC\Session 02\Assignment\Assign.DAL\obj\Debug\net5.0\Assign.DAL.csproj.AssemblyReference.cache
+D:\ROUTE\07 ASP.NET Core MVC\Session 02\Assignment\Assign.DAL\obj\Debug\net5.0\Assign.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ROUTE\07 ASP.NET Core MVC\Session 02\Assignment\Assign.DAL\obj\Debug\net5.0\Assign.DAL.AssemblyInfoInputs.cache
+D:\ROUTE\07 ASP.NET Core MVC\Session 02\Assignment\Assign.DAL\obj\Debug\net5.0\Assign.DAL.AssemblyInfo.cs
+D:\ROUTE\07 ASP.NET Core MVC\Session 02\Assignment\Assign.DAL\obj\Debug\net5.0\Assign.DAL.csproj.CoreCompileInputs.cache
+D:\ROUTE\07 ASP.NET Core MVC\Session 02\Assignment\Assign.DAL\obj\Debug\net5.0\Assign.DAL.dll
+D:\ROUTE\07 ASP.NET Core MVC\Session 02\Assignment\Assign.DAL\obj\Debug\net5.0\refint\Assign.DAL.dll
+D:\ROUTE\07 ASP.NET Core MVC\Session 02\Assignment\Assign.DAL\obj\Debug\net5.0\Assign.DAL.pdb
+D:\ROUTE\07 ASP.NET Core MVC\Session 02\Assignment\Assign.DAL\obj\Debug\net5.0\ref\Assign.DAL.dll
+D:\ROUTE\LastMVC AhmedKhaled\MVC 02\Assign.DAL\bin\Debug\net5.0\Assign.DAL.deps.json
+D:\ROUTE\LastMVC AhmedKhaled\MVC 02\Assign.DAL\bin\Debug\net5.0\Assign.DAL.dll
+D:\ROUTE\LastMVC AhmedKhaled\MVC 02\Assign.DAL\bin\Debug\net5.0\Assign.DAL.pdb
+D:\ROUTE\LastMVC AhmedKhaled\MVC 02\Assign.DAL\obj\Debug\net5.0\Assign.DAL.csproj.AssemblyReference.cache
+D:\ROUTE\LastMVC AhmedKhaled\MVC 02\Assign.DAL\obj\Debug\net5.0\Assign.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ROUTE\LastMVC AhmedKhaled\MVC 02\Assign.DAL\obj\Debug\net5.0\Assign.DAL.AssemblyInfoInputs.cache
+D:\ROUTE\LastMVC AhmedKhaled\MVC 02\Assign.DAL\obj\Debug\net5.0\Assign.DAL.AssemblyInfo.cs
+D:\ROUTE\LastMVC AhmedKhaled\MVC 02\Assign.DAL\obj\Debug\net5.0\Assign.DAL.csproj.CoreCompileInputs.cache
+D:\ROUTE\LastMVC AhmedKhaled\MVC 02\Assign.DAL\obj\Debug\net5.0\Assign.DAL.dll
+D:\ROUTE\LastMVC AhmedKhaled\MVC 02\Assign.DAL\obj\Debug\net5.0\refint\Assign.DAL.dll
+D:\ROUTE\LastMVC AhmedKhaled\MVC 02\Assign.DAL\obj\Debug\net5.0\Assign.DAL.pdb
+D:\ROUTE\LastMVC AhmedKhaled\MVC 02\Assign.DAL\obj\Debug\net5.0\ref\Assign.DAL.dll
